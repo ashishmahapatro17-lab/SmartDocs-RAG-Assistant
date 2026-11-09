@@ -1,0 +1,6 @@
+streamlit>=1.40
+google-genai>=1.0
+chromadb>=0.5
+pypdf>=5.0
+pydantic>=2.0
+pytest>=8.0

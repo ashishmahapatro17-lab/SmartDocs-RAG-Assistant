@@ -1,0 +1,6 @@
+Try these after uploading a PDF:
+1. What is the main topic of this document?
+2. Explain the key points from page 2.
+3. What are the advantages mentioned in the document?
+4. Does the document mention any limitations?
+5. I cannot find the answer to this question: what is the capital of Japan?
